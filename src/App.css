@@ -15,10 +15,11 @@
 }
 
 .App-button {
-  background-color: #1f51ff;
+  background-color: blueviolet;
   border: none;
   color: white;
-  font-size: 16px;
+  font-family: cursive;
+  font-size: 20px;
   padding: 10px 20px;
   text-align: center;
   margin: 4px 2px;
@@ -31,4 +32,9 @@
 .App-logo {
   height: 20vmin;
   pointer-events: none;
+}
+
+h1{
+  color: blueviolet;
+  font-family: cursive;
 }
